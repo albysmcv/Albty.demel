@@ -1,0 +1,2 @@
+# Albty.demel
+Mondo linux
